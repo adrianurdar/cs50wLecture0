@@ -23,3 +23,4 @@ git status
 git push
 
 # Download latest version to localMachine
+git pull
