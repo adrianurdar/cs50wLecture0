@@ -23,3 +23,4 @@
 ```git push```
 
 9. Download latest version to localMachine
+```git pull```
