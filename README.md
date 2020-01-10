@@ -24,3 +24,6 @@
 
 9. Download latest version to localMachine
 ```git pull```
+
+10. Going back to a previous commit
+```git reset --hard <commit version>```
