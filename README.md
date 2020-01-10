@@ -1,7 +1,7 @@
 # cs50wLecture0
 
-# Created repository in Github
-# Cloning repo on localMachine
+## Created repository in Github
+## Cloning repo on localMachine
 ```git clone <url>```
 
 # Creating file
