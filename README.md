@@ -1,26 +1,26 @@
 # cs50wLecture0
 
-# Created repository in Github
-# Cloning repo on localMachine
-git clone <url>
+1. Created repository in Github
+2. Cloning repo on localMachine
+```git clone <url>```
 
-# Creating file
-touch hello.html
+3. Creating file
+```touch hello.html```
 
-# Opening VSCode
-code .
+4. Opening VSCode
+```code .```
 
-# Keeping track of the file
-git add hello.html
+5. Keeping track of the file
+```git add hello.html```
 
-# Commit the file to repo
-git commit -m "Add hello.html"
+6. Commit the file to repo
+```git commit -m "Add hello.html"```
 
-# Checking status
-git status
+7. Checking status
+```git status```
 
-# Pushing the file to the repository
-git push
+8. Pushing the file to the repository
+```git push```
 
-# Download latest version to localMachine
-git pull
+9. Download latest version to localMachine
+```git pull```
