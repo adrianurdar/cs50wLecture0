@@ -7,19 +7,19 @@
 3. Creating file
 ```touch hello.html```
 
-# Opening VSCode
+4. Opening VSCode
 ```code .```
 
-# Keeping track of the file
+5. Keeping track of the file
 ```git add hello.html```
 
-# Commit the file to repo
+6. Commit the file to repo
 ```git commit -m "Add hello.html"```
 
-# Checking status
+7. Checking status
 ```git status```
 
-# Pushing the file to the repository
+8. Pushing the file to the repository
 ```git push```
 
-# Download latest version to localMachine
+9. Download latest version to localMachine
