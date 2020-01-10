@@ -2,24 +2,24 @@
 
 # Created repository in Github
 # Cloning repo on localMachine
-'''git clone <url>'''
+```git clone <url>```
 
 # Creating file
-'''touch hello.html'''
+```touch hello.html```
 
 # Opening VSCode
-'''code .'''
+```code .```
 
 # Keeping track of the file
-'''git add hello.html'''
+```git add hello.html```
 
 # Commit the file to repo
-'''git commit -m "Add hello.html"'''
+```git commit -m "Add hello.html"```
 
 # Checking status
-'''git status'''
+```git status```
 
 # Pushing the file to the repository
-'''git push'''
+```git push```
 
 # Download latest version to localMachine
