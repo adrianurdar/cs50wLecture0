@@ -1,10 +1,10 @@
 # cs50wLecture0
 
-## Created repository in Github
-## Cloning repo on localMachine
+1. Created repository in Github
+2. Cloning repo on localMachine
 ```git clone <url>```
 
-# Creating file
+3. Creating file
 ```touch hello.html```
 
 # Opening VSCode
